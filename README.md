@@ -1,2 +1,2 @@
-Hangman Game
-#Hangman game developed with python
+#Hangman Game
+Hangman game developed with python
